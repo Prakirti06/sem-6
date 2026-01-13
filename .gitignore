@@ -1,0 +1,7 @@
+*.csv
+__pycache__/
+*.pyc
+.streamlit/
+.env
+*.pem
+.DS_Store
